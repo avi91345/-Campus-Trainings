@@ -1,1 +1,4 @@
-fhfhhhec
+fhfhhhececho "# Campus Trainings
+
+This repository contains tasks and practice exercises related to the Campus Training program.  
+It includes Git basics, branching, merging, and hands-on learning activities." > README.md
